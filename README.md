@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
     php artisan admin:install
     ```
 
-- Open http://localhost/admin/ in browser,use username admin and password admin to login.
+- Open ```http://localhost/admin/``` in browser,use username ```admin``` and password ```admin``` to login.
 
 
 ## Authors
